@@ -1,0 +1,1 @@
+This project implements a simple flight-departure management system using a doubly linked list for flights and a single-linked list for passenger reservations. The system supports various operations to manage flight data, passenger information, and perform queries for flight status.
